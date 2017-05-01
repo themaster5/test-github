@@ -5,6 +5,8 @@ public class Test {
 		
 		System.out.println("Hello GitHub 3 or 4");
 		
+		System.out.println("Hello GitHub Branch 2");
+		
 	}
 
 }
