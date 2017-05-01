@@ -7,6 +7,8 @@ public class Test {
 		
 		System.out.println("Hello GitHub Branch 2");
 		
+		System.out.println("Hello GitHub master");
+		
 	}
 
 }
