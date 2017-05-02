@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("Hello GitHub master");
 		
 		System.out.println("Hi commit 2 May");
+		System.out.println("Hi 2C on  2 May");
 		
 	}
 
